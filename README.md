@@ -60,4 +60,4 @@ For example, if you provide the model with the following data:
 })`
 
 The model will look at these features and predict whether this employee is likely to be sick or available.
-- **Output: **Prediction for new data: [1] means that the model predicts this employee is likely to be sick (1) on this day.
+- **Output:** Prediction for new data: [1] means that the model predicts this employee is likely to be sick (1) on this day.
